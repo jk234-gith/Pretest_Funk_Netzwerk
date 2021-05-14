@@ -1,0 +1,14 @@
+from,to,weight,relationship
+Frank Seibert,Patrick Abele,3,2
+Frank Seibert ,Robin Blase,2,8
+Frank Seibert,Die Frage,3,4
+Robin Blase,Aminata Belli,2,2
+Robin Blase,Follow me reports,3,4
+Jonas Schreijäg,Aimen Abdulaziz-Said,3,2
+Gülseren Ölcüm,Y-Kollektiv,3,4
+Dennis Leiffels,Y-Kollektiv,3,4
+Gülseren Ölcüm,Dennis Leiffels,3,2
+Patrick Abele,Die Frage,3,4
+Aminata Belli,Follow me reports,3,4
+Jonas Schreijäg,StrgF,3,4
+Aimen Abdulaziz-Said,StrgF,3,4
